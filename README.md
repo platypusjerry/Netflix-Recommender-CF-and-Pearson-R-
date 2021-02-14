@@ -1,2 +1,3 @@
-# Recommender-using-CF-and-CPP-netflix_movie_recom-
-Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films.
+Recommender model using collaborative filtering and Pearsons' R correlation, part of netflix prize data competition
+
+DATASET: https://www.kaggle.com/laowingkin/netflix-movie-recommendation
